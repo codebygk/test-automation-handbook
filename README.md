@@ -136,7 +136,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Which design patterns have you used in automation? (P1)
 - [ ] How would you implement a Browser Factory? (P1)
 - [ ] Where would Factory be useful in a framework? (P1)
-- [ ] How would Strategy support different environments/ (P1)configurations?
+- [ ] How would Strategy support different environments/configurations? (P1)
 - [ ] How does Dependency Injection improve testability? (P1)
 - [ ] How would you design browser/driver management? (P1)
 - [ ] What problems can Singleton create? (P2)
