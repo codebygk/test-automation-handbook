@@ -1,4 +1,4 @@
-# Crack SDET Interview -> Master Checklist
+# Crack SDET Interview - Collection of Test Automation Interview Questions with Answers
 
 Priority order inside every section: highest-priority topics are listed first.
 - P1 = Must know 
@@ -717,9 +717,10 @@ These should be practiced verbally, not just read.
 - [ ] Design authentication/session management (P1)
 - [ ] Design API + UI automation architecture (P1)
 - [ ] Design test reporting (P1)
-- [ ] Design a solution to reduce a 2-hour regression suite to 20  (P1)minutes
+- [ ] Design a solution to reduce a 2-hour regression suite to 20 minutes (P1)
 - [ ] Design flaky-test detection/management (P1)
 - [ ] Design test-data management (P2)
 - [ ] Design environment management (P2)
 - [ ] Design an automation dashboard (P2)
 - [ ] Design automation for multiple teams/products (P2)
+
