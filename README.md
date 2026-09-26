@@ -21,7 +21,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [x] [Find missing number from 1 to N (P1)](python_coding_problems/find_missing_number_from_1_to_n.py)
 - [x] [Find common elements between two lists (P1)](python_coding_problems/find_common_elements_between_two_lists.py)
 - [x] [Reverse words in a sentence (P1)](python_coding_problems/reverse_words_in_a_sentence.py)
-- [ ] Count word frequency (P1)
+- [x] [Count word frequency (P1)](python_coding_problems/count_word_frequency.py)
 - [ ] Sort a list of dictionaries by a field (P1)
 - [ ] Binary search (P1)
 - [ ] Linear search (P1)
