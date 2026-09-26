@@ -13,7 +13,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [x] [Check palindrome (P1)](python_coding_problems/palindrome.py)
 - [x] [Count character frequency (P1)](python_coding_problems/count_character_frequency.py)
 - [x] [Check Anagram (P1)](python_coding_problems/anagram.py)
-- [ ] [First non-repeating character (P1)](python_coding_problems/first_non_repeating_character.py)
+- [x] [First non-repeating character (P1)](python_coding_problems/first_non_repeating_character.py)
 - [ ] Check whether two strings are anagrams (P1)
 - [ ] Remove duplicates from a list (P1)
 - [ ] Find duplicate elements (P1)
