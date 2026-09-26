@@ -49,7 +49,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Next greater element (P3)
 
 ### 1.2 Python Fundamentals
-- [ ] Lists, tuples, sets, dictionaries (P1)
+- [x] [Lists, tuples, sets, dictionaries (P1)](python_fundamentals/lists_tuples_sets_dictionaries.md)
 - [ ] Mutable vs immutable (P1)
 - [ ] == vs is (P1)
 - [ ] Functions and arguments (P1)
