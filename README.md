@@ -50,7 +50,7 @@ Priority order inside every section: highest-priority topics are listed first.
 
 ### 1.2 Python Fundamentals
 - [x] [Lists, tuples, sets, dictionaries (P1)](python_fundamentals/lists_tuples_sets_dictionaries.md)
-- [ ] Mutable vs immutable (P1)
+- [x] [Mutable vs immutable (P1)](python_fundamentals/mutable_vs_immutable.md)
 - [ ] == vs is (P1)
 - [ ] Functions and arguments (P1)
 - [ ] *args and **kwargs (P1)
