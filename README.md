@@ -17,7 +17,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [x] [Remove duplicates from a list (P1)](python_coding_problems/remove_duplicates_from_list.py)
 - [x] [Find duplicate elements (P1)](python_coding_problems/find_duplicate_elements.py)
 - [x] [Find largest and smallest element (P1)](python_coding_problems/find_largest_and_smallest_element.py)
-- [ ] Find second-largest element without sorting (P1)
+- [x] [Find second-largest element without sorting (P1)](python_coding_problems/find_second_largest_element_without_sorting.py)
 - [ ] Find missing number from 1 to N (P1)
 - [ ] Find common elements between two lists (P1)
 - [ ] Reverse words in a sentence (P1)
