@@ -15,7 +15,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [x] [First non-repeating character (P1)](python_coding_problems/first_non_repeating_character.py)
 - [x] [Check whether two strings are anagrams (P1)](python_coding_problems/anagram.py)
 - [x] [Remove duplicates from a list (P1)](python_coding_problems/remove_duplicates_from_list.py)
-- [ ] Find duplicate elements (P1)
+- [x] Find duplicate elements (P1)
 - [ ] Find largest and smallest element (P1)
 - [ ] Find second-largest element without sorting (P1)
 - [ ] Find missing number from 1 to N (P1)
