@@ -9,7 +9,7 @@ Priority order inside every section: highest-priority topics are listed first.
 
 ### 1.1 Python Coding Problems
 - [x] [Two Sum (P1)](python_coding_problems/two_sum.py)
-- [ ] Reverse a string (P1)
+- [x] [Reverse a string (P1)](python_coding_problems/reverse_string.py)
 - [ ] Check palindrome (P1)
 - [ ] Count character frequency (P1)
 - [ ] First non-repeating character (P1)

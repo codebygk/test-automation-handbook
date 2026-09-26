@@ -1,4 +1,4 @@
-# Problem:
+# Problem Statement:
 # Given an array of integers nums and an integer target, find the indices of two numbers whose sum equals the target.
 
 # Example
