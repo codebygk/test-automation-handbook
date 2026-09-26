@@ -24,7 +24,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [x] [Count word frequency (P1)](python_coding_problems/count_word_frequency.py)
 - [ ] Longest substring without repeating characters (P1)
 - [x] [Find most frequent element (P1)](python_coding_problems/find_most_frequent_element.py)
-- [ ] Prime number check (P2)
+- [x] [Prime number check (P2)](python_coding_problems/check_prime_number.py)
 - [ ] Palindrome number (P2)
 - [ ] Fibonacci (P2)
 - [ ] Move zeros to the end (P2)
