@@ -11,8 +11,17 @@
 # Largest: 9
 
 def find_largest_and_smallest_element(nums: list):
-    pass
+    smallest = nums[0]
+    largest = nums[0]
+    for num in nums:
+        if num < smallest:
+            smallest = num
+        if num > largest:
+            largest = num
+    return smallest, largest
 
 if __name__ == '__main__':
     nums = [5, 2, 9, 1, 7]
-    print(find_largest_and_smallest_element(nums))
+    smallest, largest = find_largest_and_smallest_element(nums)
+    print(f'Smallest: {smallest}')
+    print(f'Largest: {largest}')
