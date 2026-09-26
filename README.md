@@ -26,7 +26,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [x] [Find most frequent element (P1)](python_coding_problems/find_most_frequent_element.py)
 - [x] [Prime number check (P2)](python_coding_problems/check_prime_number.py)
 - [x] [Fibonacci (P2)](python_coding_problems/fibonacci.py)
-- [ ] Move zeros to the end (P2)
+- [x] [Move zeros to the end (P2)](python_coding_problems/move_zeros_to_the_end.py)
 - [ ] Rotate a list (P2)
 - [ ] Balanced parentheses (P2)
 - [ ] Sort a list of dictionaries by a field (P2)
