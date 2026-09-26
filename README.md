@@ -22,7 +22,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [x] [Find common elements between two lists (P1)](python_coding_problems/find_common_elements_between_two_lists.py)
 - [x] [Reverse words in a sentence (P1)](python_coding_problems/reverse_words_in_a_sentence.py)
 - [x] [Count word frequency (P1)](python_coding_problems/count_word_frequency.py)
-- [ ] Longest substring without repeating characters (P1)
+- [x] [Longest substring without repeating characters (P1)](python_coding_problems/longest_substring_without_repeating_characters.py)
 - [x] [Find most frequent element (P1)](python_coding_problems/find_most_frequent_element.py)
 - [x] [Prime number check (P2)](python_coding_problems/check_prime_number.py)
 - [x] [Fibonacci (P2)](python_coding_problems/fibonacci.py)
