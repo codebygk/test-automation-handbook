@@ -8,7 +8,7 @@ Priority order inside every section: highest-priority topics are listed first.
 ## 1. Programming & Coding
 
 ### 1.1 Python Coding Problems
-- [ ] Two Sum (P1) - [View Solution](python_coding_problems/two_sum.py)
+- [x] [Two Sum (P1)](python_coding_problems/two_sum.py)
 - [ ] Reverse a string (P1)
 - [ ] Check palindrome (P1)
 - [ ] Count character frequency (P1)
