@@ -12,7 +12,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [x] [Reverse a string (P1)](python_coding_problems/reverse_string.py)
 - [x] [Check palindrome (P1)](python_coding_problems/palindrome.py)
 - [x] [Count character frequency (P1)](python_coding_problems/count_character_frequency.py)
-- [ ] Check Anagram (P1)
+- [ ] [Check Anagram (P1)](python_coding_problems/anagram.py)
 - [ ] First non-repeating character (P1)
 - [ ] Check whether two strings are anagrams (P1)
 - [ ] Remove duplicates from a list (P1)
