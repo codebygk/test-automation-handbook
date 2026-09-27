@@ -196,7 +196,7 @@ Priority order inside every section: highest-priority topics are listed first.
 ## 6. Pytest
 
 ### 6.1 Fundamentals
-- [x] [Fixtures (P1)](pytest/fixtures.md)
+- [x] [Fixtures (P1)](pytest_fundamentals/fixtures.md)
 - [ ] conftest.py (P1)
 - [ ] Parameterization (P1)
 - [ ] Assertions (P1)
