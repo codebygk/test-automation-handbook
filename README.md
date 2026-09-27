@@ -315,9 +315,118 @@ Highest-priority automation section for this role.
 - [ ] How would you scale Playwright across multiple teams? (P2)
 
 
-## 8. Automation Framework Architecture
+## 8. API Testing & Automation
 
-### 8.1 Framework Design
+### 8.1 API Fundamentals
+- [ ] HTTP methods (P1)
+- [ ] HTTP status codes (P1)
+- [ ] Request/response structure (P1)
+- [ ] Headers (P1)
+- [ ] Query/path parameters (P1)
+- [ ] JSON (P1)
+- [ ] Authentication (P1)
+- [ ] REST principles (P1)
+- [ ] Cookies (P2)
+- [ ] Idempotency (P2)
+- [ ] Pagination (P2)
+- [ ] Rate limiting (P2)
+
+### 8.2 Authentication
+- [ ] JWT (P1)
+- [ ] API keys (P1)
+- [ ] OAuth basics (P1)
+- [ ] Token refresh (P1)
+- [ ] Basic authentication (P2)
+
+### 8.3 API Automation
+- [ ] Python requests (P1)
+- [ ] Pytest API tests (P1)
+- [ ] Status-code validation (P1)
+- [ ] JSON validation (P1)
+- [ ] Schema validation (P1)
+- [ ] Negative testing (P1)
+- [ ] API chaining (P1)
+- [ ] Data-driven API testing (P1)
+- [ ] Mocking (P2)
+- [ ] Contract testing (P2)
+- [ ] API + UI integration (P2)
+
+
+## 9. Database & SQL
+
+### 9.1 SQL
+- [ ] SELECT / WHERE (P1)
+- [ ] ORDER BY (P1)
+- [ ] GROUP BY / HAVING (P1)
+- [ ] INNER JOIN (P1)
+- [ ] LEFT JOIN (P1)
+- [ ] Aggregate functions (P1)
+- [ ] Subqueries (P1)
+- [ ] CASE (P1)
+- [ ] CTE (P2)
+- [ ] UNION (P2)
+- [ ] Window functions (P2)
+- [ ] NULL handling (P2)
+- [ ] Query optimization basics (P3)
+
+### 9.2 SQL Problems
+- [ ] Second-highest salary (P1)
+- [ ] Duplicate records (P1)
+- [ ] Duplicate emails (P1)
+- [ ] Employees without a department (P1)
+- [ ] Department-wise maximum salary (P1)
+- [ ] Nth-highest salary (P1)
+- [ ] Latest record per user (P2)
+- [ ] Records in one table but not another (P2)
+
+### 9.3 Database Testing
+- [ ] UI → database validation (P1)
+- [ ] API → database validation (P1)
+- [ ] CRUD validation (P1)
+- [ ] Data integrity (P1)
+- [ ] Test data setup/cleanup (P2)
+- [ ] Transactions (P2)
+- [ ] Stored procedures (P2)
+
+
+## 10. CI/CD & DevOps
+
+### 10.1 CI/CD
+- [ ] CI vs CD (P1)
+- [ ] Pipeline stages (P1)
+- [ ] Run automation in CI (P1)
+- [ ] PR validation (P1)
+- [ ] Parallel test execution (P1)
+- [ ] Test reports/artifacts (P1)
+- [ ] Environment variables (P1)
+- [ ] Secrets management (P1)
+- [ ] Quality gates (P1)
+- [ ] Scheduled execution (P2)
+- [ ] Matrix builds (P2)
+- [ ] Failure notifications (P2)
+
+### 10.2 Tools
+- [ ] Jenkins (P1)
+- [ ] GitHub Actions (P1)
+- [ ] Azure DevOps (P1)
+- [ ] Docker (P2)
+- [ ] Containers for browser execution (P2)
+- [ ] Kubernetes basics (P3)
+
+### 10.3 Git
+- [ ] Branching (P1)
+- [ ] Pull requests (P1)
+- [ ] Merge conflicts (P1)
+- [ ] Rebase (P1)
+- [ ] Merge (P1)
+- [ ] Revert/reset (P1)
+- [ ] Cherry-pick (P2)
+- [ ] Code review workflow (P2)
+
+
+## 11. Automation Framework Architecture
+
+### 11.1 Framework Design
 - [ ] Design a framework from scratch (P1)
 - [ ] Folder/package structure (P1)
 - [ ] Page Object / component architecture (P1)
@@ -335,7 +444,7 @@ Highest-priority automation section for this role.
 - [ ] Versioning (P2)
 - [ ] Multi-product framework architecture (P3)
 
-### 8.2 Framework Questions
+### 11.2 Framework Questions
 - [ ] Design a Playwright + Pytest framework from scratch (P1)
 - [ ] How would you make the framework scalable? (P1)
 - [ ] How would you support multiple environments? (P1)
@@ -351,9 +460,9 @@ Highest-priority automation section for this role.
 - [ ] How would you package the framework for multiple teams? (P3)
 
 
-## 9. System Design -> Automation
+## 12. System Design -> Automation
 
-### 9.1 Systems to Design
+### 12.1 Systems to Design
 - [ ] Scalable Playwright + Pytest framework (P1)
 - [ ] Parallel test execution system (P1)
 - [ ] Distributed test execution system (P1)
@@ -369,7 +478,7 @@ Highest-priority automation section for this role.
 - [ ] Multi-team automation platform (P2)
 - [ ] Multi-product automation platform (P3)
 
-### 9.2 Design Considerations
+### 12.2 Design Considerations
 - [ ] Scalability (P1)
 - [ ] Maintainability (P1)
 - [ ] Extensibility (P1)
@@ -382,113 +491,6 @@ Highest-priority automation section for this role.
 - [ ] Trade-offs (P1)
 - [ ] Deployment strategy (P2)
 - [ ] Capacity planning (P2)
-
-## 10. API Testing & Automation
-
-### 10.1 API Fundamentals
-- [ ] HTTP methods (P1)
-- [ ] HTTP status codes (P1)
-- [ ] Request/response structure (P1)
-- [ ] Headers (P1)
-- [ ] Query/path parameters (P1)
-- [ ] JSON (P1)
-- [ ] Authentication (P1)
-- [ ] REST principles (P1)
-- [ ] Cookies (P2)
-- [ ] Idempotency (P2)
-- [ ] Pagination (P2)
-- [ ] Rate limiting (P2)
-
-### 10.2 Authentication
-- [ ] JWT (P1)
-- [ ] API keys (P1)
-- [ ] OAuth basics (P1)
-- [ ] Token refresh (P1)
-- [ ] Basic authentication (P2)
-10.3 API Automation
-- [ ] Python requests (P1)
-- [ ] Pytest API tests (P1)
-- [ ] Status-code validation (P1)
-- [ ] JSON validation (P1)
-- [ ] Schema validation (P1)
-- [ ] Negative testing (P1)
-- [ ] API chaining (P1)
-- [ ] Data-driven API testing (P1)
-- [ ] Mocking (P2)
-- [ ] Contract testing (P2)
-- [ ] API + UI integration (P2)
-
-
-## 11. Database & SQL
-
-### 11.1 SQL
-- [ ] SELECT / WHERE (P1)
-- [ ] ORDER BY (P1)
-- [ ] GROUP BY / HAVING (P1)
-- [ ] INNER JOIN (P1)
-- [ ] LEFT JOIN (P1)
-- [ ] Aggregate functions (P1)
-- [ ] Subqueries (P1)
-- [ ] CASE (P1)
-- [ ] CTE (P2)
-- [ ] UNION (P2)
-- [ ] Window functions (P2)
-- [ ] NULL handling (P2)
-- [ ] Query optimization basics (P3)
-
-### 11.2 SQL Problems
-- [ ] Second-highest salary (P1)
-- [ ] Duplicate records (P1)
-- [ ] Duplicate emails (P1)
-- [ ] Employees without a department (P1)
-- [ ] Department-wise maximum salary (P1)
-- [ ] Nth-highest salary (P1)
-- [ ] Latest record per user (P2)
-- [ ] Records in one table but not another (P2)
-
-### 11.3 Database Testing
-- [ ] UI → database validation (P1)
-- [ ] API → database validation (P1)
-- [ ] CRUD validation (P1)
-- [ ] Data integrity (P1)
-- [ ] Test data setup/cleanup (P2)
-- [ ] Transactions (P2)
-- [ ] Stored procedures (P2)
-
-
-## 12. CI/CD & DevOps
-
-### 12.1 CI/CD
-- [ ] CI vs CD (P1)
-- [ ] Pipeline stages (P1)
-- [ ] Run automation in CI (P1)
-- [ ] PR validation (P1)
-- [ ] Parallel test execution (P1)
-- [ ] Test reports/artifacts (P1)
-- [ ] Environment variables (P1)
-- [ ] Secrets management (P1)
-- [ ] Quality gates (P1)
-- [ ] Scheduled execution (P2)
-- [ ] Matrix builds (P2)
-- [ ] Failure notifications (P2)
-
-### 12.2 Tools
-- [ ] Jenkins (P1)
-- [ ] GitHub Actions (P1)
-- [ ] Azure DevOps (P1)
-- [ ] Docker (P2)
-- [ ] Containers for browser execution (P2)
-- [ ] Kubernetes basics (P3)
-
-### 12.3 Git
-- [ ] Branching (P1)
-- [ ] Pull requests (P1)
-- [ ] Merge conflicts (P1)
-- [ ] Rebase (P1)
-- [ ] Merge (P1)
-- [ ] Revert/reset (P1)
-- [ ] Cherry-pick (P2)
-- [ ] Code review workflow (P2)
 
 
 ## 13. Test Strategy & QA
