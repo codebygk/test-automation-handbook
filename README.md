@@ -318,28 +318,28 @@ Highest-priority automation section for this role.
 ## 8. API Testing & Automation
 
 ### 8.1 API Fundamentals
-- [ ] HTTP methods (P1)
-- [ ] HTTP status codes (P1)
+- [x] [HTTP methods (P1)](api_fundamentals/http_methods.md)
+- [x] [HTTP status codes (P1)](api_fundamentals/http_status_codes.md)
+- [x] [REST principles (P1)](api_fundamentals/rest_principles.md)
 - [ ] Request/response structure (P1)
 - [ ] Headers (P1)
 - [ ] Query/path parameters (P1)
 - [ ] JSON (P1)
 - [ ] Authentication (P1)
-- [ ] REST principles (P1)
 - [ ] Cookies (P2)
 - [ ] Idempotency (P2)
 - [ ] Pagination (P2)
 - [ ] Rate limiting (P2)
 
-### 8.2 Authentication
-- [ ] JWT (P1)
+### 8.2 API Authentication
+- [x] [JWT (P1)](api_authentication/jwt.md)
 - [ ] API keys (P1)
 - [ ] OAuth basics (P1)
 - [ ] Token refresh (P1)
 - [ ] Basic authentication (P2)
 
 ### 8.3 API Automation
-- [ ] Python requests (P1)
+- [x] [Python requests (P1)](api_automation/requests.md)
 - [ ] Pytest API tests (P1)
 - [ ] Status-code validation (P1)
 - [ ] JSON validation (P1)
