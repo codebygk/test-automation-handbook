@@ -19,11 +19,11 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Graph basics (P3)
 
 ### 1.2 Algorithms
-- [ ] [Searching (P1)](algorithms/searching.md)
-- [ ] [Sorting (P1)](algorithms/sorting.md)
-- [ ] [Hashing (P1)](algorithms/hashing.md)
-- [ ] Two-pointer technique (P1)
-- [ ] Sliding window (P2)
+- [x] [Searching (P1)](algorithms/searching.md)
+- [x] [Sorting (P1)](algorithms/sorting.md)
+- [x] [Hashing (P1)](algorithms/hashing.md)
+- [x] [Two-pointer technique (P1)](algorithms/two_pointers.md)
+- [x] [Sliding window (P2)](algorithms/sliding_windows.md)
 - [ ] Recursion (P2)
 - [ ] BFS (P3)
 - [ ] DFS (P3)
