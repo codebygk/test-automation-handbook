@@ -148,18 +148,17 @@ Priority order inside every section: highest-priority topics are listed first.
 ## 4. Design Patterns
 
 ### 4.1 Patterns
-- [ ] Page Object pattern (P1)
 - [ ] Factory (P1)
-- [ ] Strategy (P1)
+- [ ] Builder (P1)
+- [ ] Adapter (P1)
 - [ ] Dependency Injection (P1)
-- [ ] Facade (P1)
+- [ ] Decorator pattern (P1)
+- [ ] Strategy (P1)
 - [ ] Singleton (P2)
-- [ ] Builder (P2)
-- [ ] Adapter (P2)
+- [ ] Facade (P2)
 - [ ] Template Method (P2)
 - [ ] Observer (P3)
 - [ ] Abstract Factory (P3)
-- [ ] Decorator pattern (P3)
 
 ### 4.2 Design Pattern in Test Automation
 - [x] [Which design patterns have you used in automation? (P1)](design_patterns_in_test_automation/design_patterns_in_test_automation.md)
@@ -174,26 +173,24 @@ Priority order inside every section: highest-priority topics are listed first.
 ## 5. Selenium
 
 - [x] [WebDriver architecture (P1)](selenium/webdriver_architecture.md)
-- [ ] Locators (P1)
-- [ ] Explicit waits (P1)
-- [ ] Expected Conditions (P1)
+- [x] [Locators (P1)](selenium/locators.md)
+- [x] [Implicit wait (P1)](selenium/implicit_wait.md)
+- [x] [Explicit wait (P1)](selenium/explicit_wait.md)
+- [x] [Alerts (P1)](selenium/alerts.md)
+- [ ] Windows/tabs (P1)
+- [ ] Frames (P1)
+- [ ] Actions API (P1)
+- [ ] JavaScript execution (P1)
+- [ ] Page Object Model (P1)
 - [ ] Dynamic elements (P1)
 - [ ] Stale element handling (P1)
-- [ ] Page Object Model (P1)
-- [ ] Frames (P1)
-- [ ] Windows/tabs (P1)
-- [ ] Alerts (P1)
-- [ ] Parallel execution (P1)
 - [ ] Flaky test handling (P1)
-- [ ] Selenium vs Playwright (P1)
-- [ ] Selenium → Playwright migration (P1)
-- [ ] Implicit wait (P2)
-- [ ] Fluent wait (P2)
+- [ ] Parallel execution (P1)
 - [ ] Selenium Grid (P2)
 - [ ] Remote WebDriver (P2)
-- [ ] JavaScript execution (P2)
-- [ ] Actions API (P2)
+- [ ] Fluent wait (P2)
 - [ ] Headless execution details (P3)
+- [ ] Selenium to Playwright migration (P3)
 
 
 ## 6. Pytest
