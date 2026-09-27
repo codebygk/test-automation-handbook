@@ -128,7 +128,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Decorator pattern (P3)
 
 ### 3.2 Design Pattern Questions
-- [ ] Which design patterns have you used in automation? (P1)
+- [x] [Which design patterns have you used in automation? (P1)](design_patterns/design_patterns_in_test_automation.md)
 - [ ] How would you implement a Browser Factory? (P1)
 - [ ] Where would Factory be useful in a framework? (P1)
 - [ ] How would Strategy support different environments/configurations? (P1)
