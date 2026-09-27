@@ -93,7 +93,7 @@ Priority order inside every section: highest-priority topics are listed first.
 ### 2.2 OOPS Concepts In Test Automation
 - [x] [How would you design a reusable automation class? (P1)](oops_concepts_in_test_automation/design_a_reusable_automation_class.md)
 - [x] [How would you apply OOP in an automation framework? (P1)](oops_concepts_in_test_automation/oops_in_automation_framework.md)
-- [ ] Composition vs inheritance: when would you choose each? (P1)
+- [x] [Composition vs inheritance: when would you choose each? (P1)](oops_concepts_in_test_automation/composition_vs_inheritance.md)
 - [ ] How do you avoid tight coupling? (P1)
 - [ ] How do you make classes testable? (P1)
 - [ ] How would you refactor a large automation class? (P2)
