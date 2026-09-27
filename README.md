@@ -62,7 +62,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [x] [@staticmethod vs @classmethod (P2)](python_fundamentals/staticmethod_vs_classmethod.md)
 - [x] [Lambda, map, filter, reduce (P2)](python_fundamentals/lambda_map_filter_reduce.md)
 - [x] [Iterators and Generators (P2)](python_fundamentals/iterators_and_generators.md)
-- [ ] Decorators (P2)
+- [x] [Decorators (P2)](python_fundamentals/decorators.md)
 - [ ] Shallow copy vs deep copy (P2)
 - [ ] Context managers (P2)
 - [ ] Custom exceptions (P2)
