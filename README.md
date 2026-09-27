@@ -101,8 +101,8 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] How would you design reusable components? (P2)
 
 ### 2.3 SOLID
-- [ ] Single Responsibility Principle (P1)
-- [ ] Open/Closed Principle (P1)
+- [x] [Single Responsibility Principle (P1)](solid_principles/single_responsibility_principle.md)
+- [x] [Open/Closed Principle (P1)](solid_principles/open_closed_principle.md)
 - [ ] Liskov Substitution Principle (P1)
 - [ ] Interface Segregation Principle (P1)
 - [ ] Dependency Inversion Principle (P1)
