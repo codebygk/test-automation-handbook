@@ -161,10 +161,10 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Abstract Factory (P3)
 - [ ] Decorator pattern (P3)
 
-### 4.2 Design Pattern Questions
-- [x] [Which design patterns have you used in automation? (P1)](design_patterns/design_patterns_in_test_automation.md)
-- [x] [Where would Factory be useful in a framework? (P1)](design_patterns/factory_pattern_in_test_automation.md)
-- [x] [How would Strategy support different environments/configurations? (P1)](design_patterns/strategy_pattern_for_enviroment_and_configuration.md)
+### 4.2 Design Pattern in Test Automation
+- [x] [Which design patterns have you used in automation? (P1)](design_patterns_in_test_automation/design_patterns_in_test_automation.md)
+- [x] [Where would Factory be useful in a framework? (P1)](design_patterns_in_test_automation/factory_pattern_in_test_automation.md)
+- [x] [How would Strategy support different environments/configurations? (P1)](design_patterns_in_test_automation/strategy_pattern_for_enviroment_and_configuration.md)
 - [ ] How does Dependency Injection improve testability? (P1)
 - [ ] How would you design browser/driver management? (P1)
 - [ ] What problems can Singleton create? (P2)
