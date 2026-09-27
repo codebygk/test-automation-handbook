@@ -83,7 +83,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [x] [Encapsulation (P1)](oops_concepts/encapsulation.md)
 - [x] [Inheritance (P1)](oops_concepts/inheritance.md)
 - [x] [Polymorphism (P1)](oops_concepts/polymorphism.md)
-- [ ] Abstraction (P1)
+- [x] [Abstraction (P1)](oops_concepts/abstraction.md)
 - [ ] Interfaces (P2)
 - [ ] Composition vs inheritance (P2)
 - [ ] Abstract classes (P2)
