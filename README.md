@@ -79,16 +79,14 @@ Priority order inside every section: highest-priority topics are listed first.
 ## 2. OOP & Software Engineering
 
 ### 2.1 OOP Concepts
-- [ ] Encapsulation (P1)
-- [ ] Inheritance (P1)
+- [x] [Class and object (P1)](oops_concepts/class_and_object.md)
+- [x] [Encapsulation (P1)](oops_concepts/encapsulation.md)
+- [x] [Inheritance (P1)](oops_concepts/inheritance.md)
 - [ ] Polymorphism (P1)
 - [ ] Abstraction (P1)
-- [ ] Composition vs inheritance (P1)
-- [ ] Method overloading (P1)
-- [ ] Method overriding (P1)
-- [ ] Class vs object (P1)
-- [ ] Abstract classes (P2)
 - [ ] Interfaces (P2)
+- [ ] Composition vs inheritance (P2)
+- [ ] Abstract classes (P2)
 - [ ] Properties (P2)
 - [ ] Association vs aggregation vs composition (P2)
 - [ ] __init__, __new__, __del__ (P3)
