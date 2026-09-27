@@ -130,6 +130,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Observer (P3)
 - [ ] Abstract Factory (P3)
 - [ ] Decorator pattern (P3)
+
 ### 3.2 Design Pattern Questions
 - [ ] Which design patterns have you used in automation? (P1)
 - [ ] How would you implement a Browser Factory? (P1)
@@ -153,6 +154,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Linked list (P2)
 - [ ] Tree basics (P2)
 - [ ] Graph basics (P3)
+
 ### 4.2 Algorithms
 - [ ] Searching (P1)
 - [ ] Sorting (P1)
@@ -162,6 +164,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Recursion (P2)
 - [ ] BFS (P3)
 - [ ] DFS (P3)
+
 ### 4.3 Complexity
 - [ ] Big-O notation (P1)
 - [ ] O(1) (P1)
@@ -188,6 +191,7 @@ Highest-priority automation section for this role.
 - [ ] Browser contexts and isolation (P1)
 - [ ] Launch configuration (P2)
 - [ ] Persistent contexts (P2)
+
 ### 5.2 Locators
 - [ ] get_by_role (P1)
 - [ ] get_by_text (P1)
@@ -201,6 +205,7 @@ Highest-priority automation section for this role.
 - [ ] Chained locators (P2)
 - [ ] Locator filtering (P2)
 - [ ] Strict mode / strictness (P2)
+
 ### 5.3 Synchronization
 - [ ] Auto-waiting (P1)
 - [ ] Avoiding hard waits (P1)
@@ -209,6 +214,7 @@ Highest-priority automation section for this role.
 - [ ] Waiting for network responses (P1)
 - [ ] Custom polling/waiting (P2)
 - [ ] Diagnosing synchronization failures (P2)
+
 ### 5.4 Browser Interactions
 - [ ] Forms (P1)
 - [ ] Dropdowns (P1)
@@ -221,6 +227,7 @@ Highest-priority automation section for this role.
 - [ ] Mouse/keyboard (P2)
 - [ ] Drag and drop (P2)
 - [ ] Popups (P2)
+
 ### 5.5 Advanced Playwright
 - [ ] Authentication/session reuse (P1)
 - [ ] Storage state (P1)
@@ -237,6 +244,7 @@ Highest-priority automation section for this role.
 - [ ] Sharding (P2)
 - [ ] Video recording (P3)
 - [ ] Codegen (P3)
+
 ### 5.6 Playwright Questions
 - [ ] Why Playwright over Selenium? (P1)
 - [ ] How does Playwright auto-waiting work? (P1)
@@ -265,6 +273,7 @@ Highest-priority automation section for this role.
 - [ ] autouse (P2)
 - [ ] yield fixtures (P2)
 - [ ] skip / xfail (P2)
+
 ### 6.2 Advanced Pytest
 - [ ] Parallel execution with pytest-xdist (P1)
 - [ ] Fixture dependency (P1)
@@ -276,6 +285,7 @@ Highest-priority automation section for this role.
 - [ ] Custom reporting (P2)
 - [ ] Allure integration (P2)
 - [ ] Custom plugins (P3)
+
 ### 6.3 Pytest Questions
 - [ ] Fixture vs setup/teardown (P1)
 - [ ] Explain fixture scopes (P1)
@@ -334,6 +344,7 @@ Your strongest production technology -> maintain strong command here.
 - [ ] Plugin/extensibility design (P2)
 - [ ] Versioning (P2)
 - [ ] Multi-product framework architecture (P3)
+
 ### 8.2 Framework Questions
 - [ ] Design a Playwright + Pytest framework from scratch (P1)
 - [ ] How would you make the framework scalable? (P1)
