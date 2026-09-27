@@ -171,87 +171,29 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] When would you choose composition over inheritance? (P2)
 - [ ] Implement Builder/Adapter/Observer in Python (P3)
 
-## 5. Playwright
+## 5. Selenium
 
-Highest-priority automation section for this role.
-
-### 5.1 Core Playwright
-- [ ] Browser / BrowserContext / Page (P1)
+- [x] [WebDriver architecture (P1)](selenium/webdriver_architecture.md)
 - [ ] Locators (P1)
-- [ ] Auto-waiting (P1)
-- [ ] Assertions (P1)
-- [ ] Navigation (P1)
-- [ ] Headless vs headed (P1)
-- [ ] Chromium / Firefox / WebKit (P1)
-- [ ] Browser contexts and isolation (P1)
-- [ ] Launch configuration (P2)
-- [ ] Persistent contexts (P2)
-
-### 5.2 Locators
-- [ ] get_by_role (P1)
-- [ ] get_by_text (P1)
-- [ ] get_by_label (P1)
-- [ ] get_by_placeholder (P1)
-- [ ] get_by_test_id (P1)
+- [ ] Explicit waits (P1)
+- [ ] Expected Conditions (P1)
 - [ ] Dynamic elements (P1)
-- [ ] Choosing stable locators (P1)
-- [ ] CSS (P2)
-- [ ] XPath (P2)
-- [ ] Chained locators (P2)
-- [ ] Locator filtering (P2)
-- [ ] Strict mode / strictness (P2)
-
-### 5.3 Synchronization
-- [ ] Auto-waiting (P1)
-- [ ] Avoiding hard waits (P1)
-- [ ] Waiting for elements (P1)
-- [ ] Waiting for navigation (P1)
-- [ ] Waiting for network responses (P1)
-- [ ] Custom polling/waiting (P2)
-- [ ] Diagnosing synchronization failures (P2)
-
-### 5.4 Browser Interactions
-- [ ] Forms (P1)
-- [ ] Dropdowns (P1)
-- [ ] Checkboxes/radio buttons (P1)
+- [ ] Stale element handling (P1)
+- [ ] Page Object Model (P1)
 - [ ] Frames (P1)
-- [ ] Multiple tabs/windows (P1)
-- [ ] Alerts/dialogs (P1)
-- [ ] File upload (P1)
-- [ ] File download (P1)
-- [ ] Mouse/keyboard (P2)
-- [ ] Drag and drop (P2)
-- [ ] Popups (P2)
-
-### 5.5 Advanced Playwright
-- [ ] Authentication/session reuse (P1)
-- [ ] Storage state (P1)
+- [ ] Windows/tabs (P1)
+- [ ] Alerts (P1)
 - [ ] Parallel execution (P1)
-- [ ] Retries (P1)
-- [ ] Screenshots on failure (P1)
-- [ ] Trace Viewer (P1)
-- [ ] Debugging CI failures (P1)
-- [ ] Handling flaky tests (P1)
-- [ ] Network interception (P2)
-- [ ] Request mocking (P2)
-- [ ] API testing (P2)
-- [ ] Cross-browser execution (P2)
-- [ ] Sharding (P2)
-- [ ] Video recording (P3)
-- [ ] Codegen (P3)
-
-### 5.6 Playwright Questions
-- [ ] Why Playwright over Selenium? (P1)
-- [ ] How does Playwright auto-waiting work? (P1)
-- [ ] How do you handle flaky tests? (P1)
-- [ ] How do you design Playwright for parallel execution? (P1)
-- [ ] How do you handle authentication? (P1)
-- [ ] How do you debug tests failing only in CI? (P1)
-- [ ] How do you choose stable locators? (P1)
-- [ ] How do BrowserContext and Page differ? (P1)
-- [ ] How do you intercept/mocking network calls? (P2)
-- [ ] How do you implement cross-browser execution? (P2)
-- [ ] How would you scale Playwright across multiple teams? (P2)
+- [ ] Flaky test handling (P1)
+- [ ] Selenium vs Playwright (P1)
+- [ ] Selenium → Playwright migration (P1)
+- [ ] Implicit wait (P2)
+- [ ] Fluent wait (P2)
+- [ ] Selenium Grid (P2)
+- [ ] Remote WebDriver (P2)
+- [ ] JavaScript execution (P2)
+- [ ] Actions API (P2)
+- [ ] Headless execution details (P3)
 
 
 ## 6. Pytest
@@ -293,31 +235,87 @@ Highest-priority automation section for this role.
 - [ ] How do you build reusable fixtures across projects? (P2)
 
 
-## 7. Selenium
+## 7. Playwright
 
-Your strongest production technology -> maintain strong command here.
+Highest-priority automation section for this role.
 
-- [ ] WebDriver architecture (P1)
+### 7.1 Core Playwright
+- [ ] Browser / BrowserContext / Page (P1)
 - [ ] Locators (P1)
-- [ ] Explicit waits (P1)
-- [ ] Expected Conditions (P1)
+- [ ] Auto-waiting (P1)
+- [ ] Assertions (P1)
+- [ ] Navigation (P1)
+- [ ] Headless vs headed (P1)
+- [ ] Chromium / Firefox / WebKit (P1)
+- [ ] Browser contexts and isolation (P1)
+- [ ] Launch configuration (P2)
+- [ ] Persistent contexts (P2)
+
+### 7.2 Locators
+- [ ] get_by_role (P1)
+- [ ] get_by_text (P1)
+- [ ] get_by_label (P1)
+- [ ] get_by_placeholder (P1)
+- [ ] get_by_test_id (P1)
 - [ ] Dynamic elements (P1)
-- [ ] Stale element handling (P1)
-- [ ] Page Object Model (P1)
+- [ ] Choosing stable locators (P1)
+- [ ] CSS (P2)
+- [ ] XPath (P2)
+- [ ] Chained locators (P2)
+- [ ] Locator filtering (P2)
+- [ ] Strict mode / strictness (P2)
+
+### 7.3 Synchronization
+- [ ] Auto-waiting (P1)
+- [ ] Avoiding hard waits (P1)
+- [ ] Waiting for elements (P1)
+- [ ] Waiting for navigation (P1)
+- [ ] Waiting for network responses (P1)
+- [ ] Custom polling/waiting (P2)
+- [ ] Diagnosing synchronization failures (P2)
+
+### 7.4 Browser Interactions
+- [ ] Forms (P1)
+- [ ] Dropdowns (P1)
+- [ ] Checkboxes/radio buttons (P1)
 - [ ] Frames (P1)
-- [ ] Windows/tabs (P1)
-- [ ] Alerts (P1)
+- [ ] Multiple tabs/windows (P1)
+- [ ] Alerts/dialogs (P1)
+- [ ] File upload (P1)
+- [ ] File download (P1)
+- [ ] Mouse/keyboard (P2)
+- [ ] Drag and drop (P2)
+- [ ] Popups (P2)
+
+### 7.5 Advanced Playwright
+- [ ] Authentication/session reuse (P1)
+- [ ] Storage state (P1)
 - [ ] Parallel execution (P1)
-- [ ] Flaky test handling (P1)
-- [ ] Selenium vs Playwright (P1)
-- [ ] Selenium → Playwright migration (P1)
-- [ ] Implicit wait (P2)
-- [ ] Fluent wait (P2)
-- [ ] Selenium Grid (P2)
-- [ ] Remote WebDriver (P2)
-- [ ] JavaScript execution (P2)
-- [ ] Actions API (P2)
-- [ ] Headless execution details (P3)
+- [ ] Retries (P1)
+- [ ] Screenshots on failure (P1)
+- [ ] Trace Viewer (P1)
+- [ ] Debugging CI failures (P1)
+- [ ] Handling flaky tests (P1)
+- [ ] Network interception (P2)
+- [ ] Request mocking (P2)
+- [ ] API testing (P2)
+- [ ] Cross-browser execution (P2)
+- [ ] Sharding (P2)
+- [ ] Video recording (P3)
+- [ ] Codegen (P3)
+
+### 7.6 Playwright Questions
+- [ ] Why Playwright over Selenium? (P1)
+- [ ] How does Playwright auto-waiting work? (P1)
+- [ ] How do you handle flaky tests? (P1)
+- [ ] How do you design Playwright for parallel execution? (P1)
+- [ ] How do you handle authentication? (P1)
+- [ ] How do you debug tests failing only in CI? (P1)
+- [ ] How do you choose stable locators? (P1)
+- [ ] How do BrowserContext and Page differ? (P1)
+- [ ] How do you intercept/mocking network calls? (P2)
+- [ ] How do you implement cross-browser execution? (P2)
+- [ ] How would you scale Playwright across multiple teams? (P2)
 
 
 ## 8. Automation Framework Architecture
