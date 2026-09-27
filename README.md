@@ -114,9 +114,9 @@ Priority order inside every section: highest-priority topics are listed first.
 ## 3. Design Patterns
 
 ### 3.1 Patterns
+- [ ] Page Object pattern (P1)
 - [ ] Factory (P1)
 - [ ] Strategy (P1)
-- [ ] Page Object pattern (P1)
 - [ ] Dependency Injection (P1)
 - [ ] Facade (P1)
 - [ ] Singleton (P2)
@@ -129,9 +129,8 @@ Priority order inside every section: highest-priority topics are listed first.
 
 ### 3.2 Design Pattern Questions
 - [x] [Which design patterns have you used in automation? (P1)](design_patterns/design_patterns_in_test_automation.md)
-- [ ] How would you implement a Browser Factory? (P1)
-- [ ] Where would Factory be useful in a framework? (P1)
-- [ ] How would Strategy support different environments/configurations? (P1)
+- [x] [Where would Factory be useful in a framework? (P1)](design_patterns/factory_pattern_in_test_automation.md)
+- [x] [How would Strategy support different environments/configurations? (P1)](design_patterns/strategy_pattern_for_enviroment_and_configuration.md)
 - [ ] How does Dependency Injection improve testability? (P1)
 - [ ] How would you design browser/driver management? (P1)
 - [ ] What problems can Singleton create? (P2)
