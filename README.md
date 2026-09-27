@@ -84,13 +84,13 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Polymorphism (P1)
 - [ ] Abstraction (P1)
 - [ ] Composition vs inheritance (P1)
+- [ ] Method overloading (P1)
 - [ ] Method overriding (P1)
 - [ ] Class vs object (P1)
 - [ ] Abstract classes (P2)
-- [ ] Interfaces / protocols in Python (P2)
+- [ ] Interfaces (P2)
 - [ ] Properties (P2)
 - [ ] Association vs aggregation vs composition (P2)
-- [ ] Method overloading in Python (P3)
 - [ ] __init__, __new__, __del__ (P3)
 
 ### 2.2 OOP Interview Questions
