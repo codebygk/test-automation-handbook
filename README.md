@@ -90,8 +90,8 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Association vs aggregation vs composition (P2)
 - [ ] __init__, __new__, __del__ (P3)
 
-### 2.2 OOP Interview Questions
-- [ ] How would you design a reusable automation class? (P1)
+### 2.2 OOPS Concepts In Test Automation
+- [x] [How would you design a reusable automation class? (P1)](oops_concepts_in_test_automation/design_a_reusable_automation_class.md)
 - [ ] How would you apply OOP in an automation framework? (P1)
 - [ ] Composition vs inheritance: when would you choose each? (P1)
 - [ ] How do you avoid tight coupling? (P1)
