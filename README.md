@@ -5,9 +5,43 @@ Priority order inside every section: highest-priority topics are listed first.
 - P2 = Should know
 - P3 = Good to know
 
-## 1. Programming & Coding
 
-### 1.1 Python Coding Problems
+## 1. Data Structures & Algorithms
+
+### 1.1 Data Structures
+- [x] [List (P1)](data_structures/list.md)
+- [x] [Dictionary (P1)](data_structures/dictionary.md)
+- [x] [Set (P1)](data_structures/set.md)
+- [x] [Stack (P1)](data_structures/stack.md)
+- [x] [Queue (P1)](data_structures/queue.md)
+- [x] [Linked list (P2)](data_structures/linked_list.md)
+- [ ] Tree basics (P2)
+- [ ] Graph basics (P3)
+
+### 1.2 Algorithms
+- [ ] [Searching (P1)](algorithms/searching.md)
+- [ ] [Sorting (P1)](algorithms/sorting.md)
+- [ ] [Hashing (P1)](algorithms/hashing.md)
+- [ ] Two-pointer technique (P1)
+- [ ] Sliding window (P2)
+- [ ] Recursion (P2)
+- [ ] BFS (P3)
+- [ ] DFS (P3)
+
+### 1.3 Complexity
+- [ ] Big-O notation (P1)
+- [ ] O(1) (P1)
+- [ ] O(n) (P1)
+- [ ] O(n²) (P1)
+- [ ] O(log n) (P1)
+- [ ] Time vs space complexity (P1)
+- [ ] O(n log n) (P2)
+- [ ] Explain complexity of every solution you write (P2)
+
+
+## 2. Programming & Coding
+
+### 2.1 Python Coding Problems
 - [x] [Two Sum (P1)](python_coding_problems/two_sum.py)
 - [x] [Reverse a string (P1)](python_coding_problems/reverse_string.py)
 - [x] [Check palindrome (P1)](python_coding_problems/palindrome.py)
@@ -48,7 +82,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Merge sort implementation (P3)
 - [ ] Next greater element (P3)
 
-### 1.2 Python Fundamentals
+### 2.2 Python Fundamentals
 - [x] [Lists, tuples, sets, dictionaries (P1)](python_fundamentals/lists_tuples_sets_dictionaries.md)
 - [x] [Mutable vs immutable (P1)](python_fundamentals/mutable_vs_immutable.md)
 - [x] [== vs is (P1)](python_fundamentals/==_vs_is.md)
@@ -76,9 +110,9 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] concurrent.futures (P3)
 
 
-## 2. OOP & Software Engineering
+## 3. OOP & Software Engineering
 
-### 2.1 OOP Concepts
+### 3.1 OOP Concepts
 - [x] [Class and object (P1)](oops_concepts/class_and_object.md)
 - [x] [Encapsulation (P1)](oops_concepts/encapsulation.md)
 - [x] [Inheritance (P1)](oops_concepts/inheritance.md)
@@ -90,7 +124,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Association vs aggregation vs composition (P2)
 - [ ] __init__, __new__, __del__ (P3)
 
-### 2.2 OOPS Concepts In Test Automation
+### 3.2 OOPS Concepts In Test Automation
 - [x] [How would you design a reusable automation class? (P1)](oops_concepts_in_test_automation/design_a_reusable_automation_class.md)
 - [x] [How would you apply OOP in an automation framework? (P1)](oops_concepts_in_test_automation/oops_in_automation_framework.md)
 - [x] [Composition vs inheritance: when would you choose each? (P1)](oops_concepts_in_test_automation/composition_vs_inheritance.md)
@@ -100,7 +134,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] How would you manage dependencies between classes? (P2)
 - [ ] How would you design reusable components? (P2)
 
-### 2.3 SOLID
+### 3.3 SOLID
 - [x] [Single Responsibility Principle (P1)](solid_principles/single_responsibility_principle.md)
 - [x] [Open/Closed Principle (P1)](solid_principles/open_closed_principle.md)
 - [x] [Liskov Substitution Principle (P1)](solid_principles/liskov_substitution_principle.md)
@@ -111,9 +145,9 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Refactor a framework using SOLID (P2)
 
 
-## 3. Design Patterns
+## 4. Design Patterns
 
-### 3.1 Patterns
+### 4.1 Patterns
 - [ ] Page Object pattern (P1)
 - [ ] Factory (P1)
 - [ ] Strategy (P1)
@@ -127,7 +161,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] Abstract Factory (P3)
 - [ ] Decorator pattern (P3)
 
-### 3.2 Design Pattern Questions
+### 4.2 Design Pattern Questions
 - [x] [Which design patterns have you used in automation? (P1)](design_patterns/design_patterns_in_test_automation.md)
 - [x] [Where would Factory be useful in a framework? (P1)](design_patterns/factory_pattern_in_test_automation.md)
 - [x] [How would Strategy support different environments/configurations? (P1)](design_patterns/strategy_pattern_for_enviroment_and_configuration.md)
@@ -136,40 +170,6 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] What problems can Singleton create? (P2)
 - [ ] When would you choose composition over inheritance? (P2)
 - [ ] Implement Builder/Adapter/Observer in Python (P3)
-
-
-## 4. Data Structures & Algorithms
-
-### 4.1 Data Structures
-- [ ] List/array (P1)
-- [ ] Dictionary/hash map (P1)
-- [ ] Set (P1)
-- [ ] Stack (P1)
-- [ ] Queue (P1)
-- [ ] Linked list (P2)
-- [ ] Tree basics (P2)
-- [ ] Graph basics (P3)
-
-### 4.2 Algorithms
-- [ ] Searching (P1)
-- [ ] Sorting (P1)
-- [ ] Hashing (P1)
-- [ ] Two-pointer technique (P1)
-- [ ] Sliding window (P2)
-- [ ] Recursion (P2)
-- [ ] BFS (P3)
-- [ ] DFS (P3)
-
-### 4.3 Complexity
-- [ ] Big-O notation (P1)
-- [ ] O(1) (P1)
-- [ ] O(n) (P1)
-- [ ] O(n²) (P1)
-- [ ] O(log n) (P1)
-- [ ] Time vs space complexity (P1)
-- [ ] O(n log n) (P2)
-- [ ] Explain complexity of every solution you write (P2)
-
 
 ## 5. Playwright
 
