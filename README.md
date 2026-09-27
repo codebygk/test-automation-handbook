@@ -29,12 +29,12 @@ Priority order inside every section: highest-priority topics are listed first.
 - [ ] DFS (P3)
 
 ### 1.3 Complexity
-- [ ] Big-O notation (P1)
-- [ ] O(1) (P1)
-- [ ] O(n) (P1)
-- [ ] O(n²) (P1)
-- [ ] O(log n) (P1)
-- [ ] Time vs space complexity (P1)
+- [x] [Big-O notation (P1)](complexity/big_o_notation.md)
+- [x] [O(1) (P1)](complexity/o(1).md)
+- [x] [O(n) (P1)](complexity/o(n).md)
+- [x] [O(n²) (P1)](complexity/o(n_squared).md)
+- [x] [O(log n) (P1)](complexity/o(logn).md)
+- [x] [Time vs space complexity (P1)](complexity/time_vs_space_complexity.md)
 - [ ] O(n log n) (P2)
 - [ ] Explain complexity of every solution you write (P2)
 
