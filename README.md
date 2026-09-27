@@ -370,8 +370,8 @@ Highest-priority automation section for this role.
 - [ ] Query optimization basics (P3)
 
 ### 9.2 SQL Problems
-- [ ] Second-highest salary (P1)
-- [ ] Duplicate records (P1)
+- [x] [Second-highest salary (P1)](sql_problems/second_highest_salary.md)
+- [x] [Duplicate records (P1)](sql_problems/duplicate_records.md)
 - [ ] Duplicate emails (P1)
 - [ ] Employees without a department (P1)
 - [ ] Department-wise maximum salary (P1)
