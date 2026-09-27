@@ -55,7 +55,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [x] [Functions and arguments (P1)](python_fundamentals/function_and_arguments.md)
 - [x] [*args and **kwargs (P1)](python_fundamentals/args_vs_kwargs.md)
 - [x] [Exception handling (P1)](python_fundamentals/exception_handling.md)
-- [ ] List/dict/set comprehensions (P1)
+- [x] [List/dict/set comprehensions (P1)](python_fundamentals/list_dict_and_set_comprehensions.md)
 - [ ] Modules and packages (P1)
 - [ ] JSON handling (P1)
 - [ ] File handling (P1)
