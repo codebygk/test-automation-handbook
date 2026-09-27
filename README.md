@@ -495,40 +495,27 @@ Highest-priority automation section for this role.
 
 ## 13. Test Strategy & QA
 
-### 13.1 Testing Concepts
-- [ ] Test strategy (P1)
-- [ ] Test planning (P1)
-- [ ] Risk-based testing (P1)
-- [ ] Regression testing (P1)
+### 13.1 Types of Testing
+- [ ] Unit testing (P1)
 - [ ] Smoke testing (P1)
 - [ ] Sanity testing (P1)
-- [ ] Integration testing (P1)
-- [ ] End-to-end testing (P1)
 - [ ] Functional testing (P1)
+- [ ] End-to-end testing (P1)
+- [ ] Integration testing (P1)
+- [ ] System testing (P1)
+- [ ] Regression testing (P1)
 - [ ] Exploratory testing (P1)
-- [ ] System testing (P2)
-- [ ] Shift-left testing (P2)
+- [ ] Risk-based testing (P1)
+
+### 13.2 Testing Process
+- [ ] Test strategy (P1)
+- [ ] Test planning (P1)
+- [x] [Shift-left testing (P1)](testing_process/shift_left_testing.md)
+- [x] [Test pyramid (P1)](testing_process/test_pyramid.md)
+- [x] [Requirement Traceability Matrix (RTM)](testing_process/requirement_traceability_matrix.md)
 - [ ] Testing in CI/CD (P2)
 
-### 13.2 Test Pyramid
-- [ ] What is the Test Pyramid? (P1)
-- [ ] Unit tests (P1)
-- [ ] Integration/API tests (P1)
-- [ ] UI/E2E tests (P1)
-- [ ] Why UI tests should be smaller in number (P1)
-- [ ] Applying the pyramid to a real project (P1)
-- [ ] Test Pyramid vs Test Trophy (P2)
-- [ ] When to break the traditional pyramid (P2)
 
-### 13.3 RTM / Traceability Matrix
-- [ ] Requirement → test-case mapping (P1)
-- [ ] Requirement coverage (P1)
-- [ ] Requirement → automation mapping (P1)
-- [ ] Identifying coverage gaps (P1)
-- [ ] Bidirectional traceability (P1)
-- [ ] Change-impact analysis (P1)
-- [ ] RTM maintenance (P2)
-- [ ] RTM reporting (P2)
 
 
 ## 14. QA Metrics
