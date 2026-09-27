@@ -103,9 +103,9 @@ Priority order inside every section: highest-priority topics are listed first.
 ### 2.3 SOLID
 - [x] [Single Responsibility Principle (P1)](solid_principles/single_responsibility_principle.md)
 - [x] [Open/Closed Principle (P1)](solid_principles/open_closed_principle.md)
-- [ ] Liskov Substitution Principle (P1)
-- [ ] Interface Segregation Principle (P1)
-- [ ] Dependency Inversion Principle (P1)
+- [x] [Liskov Substitution Principle (P1)](solid_principles/liskov_substitution_principle.md)
+- [x] [Interface Segregation Principle (P1)](solid_principles/interface_segregation_principle.md)
+- [x] [Dependency Inversion Principle (P1)](solid_principles/dependency_inversion_principle.md)
 - [ ] Apply SOLID to an automation framework (P1)
 - [ ] Identify SOLID violations in existing automation code (P2)
 - [ ] Refactor a framework using SOLID (P2)
