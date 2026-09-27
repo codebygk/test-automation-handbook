@@ -92,7 +92,7 @@ Priority order inside every section: highest-priority topics are listed first.
 
 ### 2.2 OOPS Concepts In Test Automation
 - [x] [How would you design a reusable automation class? (P1)](oops_concepts_in_test_automation/design_a_reusable_automation_class.md)
-- [ ] How would you apply OOP in an automation framework? (P1)
+- [x] [How would you apply OOP in an automation framework? (P1)](oops_concepts_in_test_automation/oops_in_automation_framework.md)
 - [ ] Composition vs inheritance: when would you choose each? (P1)
 - [ ] How do you avoid tight coupling? (P1)
 - [ ] How do you make classes testable? (P1)
@@ -103,9 +103,9 @@ Priority order inside every section: highest-priority topics are listed first.
 ### 2.3 SOLID
 - [ ] Single Responsibility Principle (P1)
 - [ ] Open/Closed Principle (P1)
-- [ ] Dependency Inversion Principle (P1)
 - [ ] Liskov Substitution Principle (P1)
 - [ ] Interface Segregation Principle (P1)
+- [ ] Dependency Inversion Principle (P1)
 - [ ] Apply SOLID to an automation framework (P1)
 - [ ] Identify SOLID violations in existing automation code (P2)
 - [ ] Refactor a framework using SOLID (P2)
