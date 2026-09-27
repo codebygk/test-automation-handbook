@@ -59,7 +59,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [x] [Modules and packages (P1)](python_fundamentals/modules_and_packages.md)
 - [x] [JSON handling (P1)](python_fundamentals/json_handling.md)
 - [x] [File handling (P1)](python_fundamentals/file_handling.md)
-- [ ] @staticmethod vs @classmethod (P2)
+- [x] [@staticmethod vs @classmethod (P2)](python_fundamentals/staticmethod_vs_classmethod.md)
 - [ ] Lambda, map, filter, reduce (P2)
 - [ ] Iterators (P2)
 - [ ] Generators and yield (P2)
