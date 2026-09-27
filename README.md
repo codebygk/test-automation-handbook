@@ -58,7 +58,7 @@ Priority order inside every section: highest-priority topics are listed first.
 - [x] [List/dict/set comprehensions (P1)](python_fundamentals/list_dict_and_set_comprehensions.md)
 - [x] [Modules and packages (P1)](python_fundamentals/modules_and_packages.md)
 - [x] [JSON handling (P1)](python_fundamentals/json_handling.md)
-- [ ] File handling (P1)
+- [x] [File handling (P1)](python_fundamentals/file_handling.md)
 - [ ] @staticmethod vs @classmethod (P2)
 - [ ] Lambda, map, filter, reduce (P2)
 - [ ] Iterators (P2)
