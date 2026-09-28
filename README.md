@@ -236,10 +236,10 @@ Priority order inside every section: highest-priority topics are listed first.
 Highest-priority automation section for this role.
 
 ### 7.1 Core Playwright
-- [ ] Browser / BrowserContext / Page (P1)
-- [ ] Locators (P1)
-- [ ] Auto-waiting (P1)
-- [ ] Assertions (P1)
+- [x] [Browser / BrowserContext / Page (P1)](playwright_fundamentals/browser_vs_browsercontext_vs_page.md)
+- [x] [Locators (P1)](playwright_fundamentals/locators.md)
+- [x] [Auto-waiting (P1)](playwright_fundamentals/autowaiting.md)
+- [x] [Assertions (P1)](playwright_fundamentals/assertions.md)
 - [ ] Navigation (P1)
 - [ ] Headless vs headed (P1)
 - [ ] Chromium / Firefox / WebKit (P1)
