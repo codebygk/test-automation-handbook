@@ -240,7 +240,7 @@ Highest-priority automation section for this role.
 - [x] [Locators (P1)](playwright_fundamentals/locators.md)
 - [x] [Auto-waiting (P1)](playwright_fundamentals/autowaiting.md)
 - [x] [Assertions (P1)](playwright_fundamentals/assertions.md)
-- [ ] Navigation (P1)
+- [x] [Navigation (P1)](playwright_fundamentals/navigation.md)
 - [ ] Headless vs headed (P1)
 - [ ] Chromium / Firefox / WebKit (P1)
 - [ ] Browser contexts and isolation (P1)
