@@ -1,4 +1,4 @@
-# Crack SDET Interview - Collection of Test Automation Interview Questions with Answers
+# Test Automation Handbook: Notes, Tips and Interview Questions for SDETs
 
 Priority order inside every section: highest-priority topics are listed first.
 - P1 = Must know 
